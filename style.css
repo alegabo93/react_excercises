@@ -67,3 +67,10 @@ content: '\25B8';
 color: #d66;
 content: "+";
 }
+.checklist--add-task {
+  border: 1px dashed #bbb;
+  width: 100%;
+  padding: 10px;
+  border-radius: 3px;
+  margin-top: 20px;
+}
