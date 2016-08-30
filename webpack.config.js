@@ -1,6 +1,6 @@
 module.exports = {
   entry: [
-    './app/Components/App.js'
+    './app/ContactApp/App.js'
   ],
   output: {
     path: './public/',
